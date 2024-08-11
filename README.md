@@ -3,7 +3,7 @@ Shabbir Khargon</h1>
 <h3 align="center">A Javascript Enthusiast from India</h3>
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shabbir-coder&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shabbir-coder&theme=draculatitle=Commits,Experience,Repositories,Followers,PullRequest,Joined2020)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 <h3 align="left"> 🪪 Know me:</h3>
