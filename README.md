@@ -2,7 +2,9 @@
 Shabbir Khargon</h1>
 <h3 align="center">A Javascript Enthusiast from India</h3>
 <br>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=shabbir-coder&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
 <br>
 <h3 align="left"> 🪪 Know me:</h3>
 - 💼 I’m currently working as a MEAN Stack Engineer at Veena World.
